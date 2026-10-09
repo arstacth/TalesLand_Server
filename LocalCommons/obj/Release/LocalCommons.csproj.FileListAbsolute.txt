@@ -1,0 +1,7 @@
+D:\TalesLand_Server\bin\bin\LocalCommons.dll
+D:\TalesLand_Server\bin\bin\LocalCommons.pdb
+D:\TalesLand_Server\LocalCommons\obj\Release\LocalCommons.csproj.AssemblyReference.cache
+D:\TalesLand_Server\LocalCommons\obj\Release\LocalCommons.csproj.CoreCompileInputs.cache
+D:\TalesLand_Server\LocalCommons\obj\Release\LocalCom.F6D602A7.Up2Date
+D:\TalesLand_Server\LocalCommons\obj\Release\LocalCommons.dll
+D:\TalesLand_Server\LocalCommons\obj\Release\LocalCommons.pdb
