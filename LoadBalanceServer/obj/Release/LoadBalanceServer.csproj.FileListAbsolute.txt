@@ -1,0 +1,8 @@
+D:\TalesLand_Server\bin\LoadBalanceServer.exe.config
+D:\TalesLand_Server\bin\LoadBalanceServer.exe
+D:\TalesLand_Server\bin\LoadBalanceServer.pdb
+D:\TalesLand_Server\LoadBalanceServer\obj\Release\LoadBalanceServer.csproj.AssemblyReference.cache
+D:\TalesLand_Server\LoadBalanceServer\obj\Release\LoadBalanceServer.csproj.CoreCompileInputs.cache
+D:\TalesLand_Server\LoadBalanceServer\obj\Release\LoadBala.9A86D182.Up2Date
+D:\TalesLand_Server\LoadBalanceServer\obj\Release\LoadBalanceServer.exe
+D:\TalesLand_Server\LoadBalanceServer\obj\Release\LoadBalanceServer.pdb

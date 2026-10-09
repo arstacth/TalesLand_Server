@@ -1,0 +1,14 @@
+D:\TalesLand_Server\bin\AgentServer.exe.config
+D:\TalesLand_Server\bin\AgentServer.exe
+D:\TalesLand_Server\bin\AgentServer.pdb
+D:\TalesLand_Server\AgentServer\obj\Release\AgentServer.csproj.AssemblyReference.cache
+D:\TalesLand_Server\AgentServer\obj\Release\AgentServer.csproj.SuggestedBindingRedirects.cache
+D:\TalesLand_Server\AgentServer\obj\Release\AgentServer.exe.config
+D:\TalesLand_Server\AgentServer\obj\Release\AgentServer.Dialog.GMTool_DisconnectUser.resources
+D:\TalesLand_Server\AgentServer\obj\Release\AgentServer.Form1.resources
+D:\TalesLand_Server\AgentServer\obj\Release\AgentServer.ServerSettingManager.resources
+D:\TalesLand_Server\AgentServer\obj\Release\AgentServer.csproj.GenerateResource.cache
+D:\TalesLand_Server\AgentServer\obj\Release\AgentServer.csproj.CoreCompileInputs.cache
+D:\TalesLand_Server\AgentServer\obj\Release\AgentSer.3FC8DD6C.Up2Date
+D:\TalesLand_Server\AgentServer\obj\Release\AgentServer.exe
+D:\TalesLand_Server\AgentServer\obj\Release\AgentServer.pdb

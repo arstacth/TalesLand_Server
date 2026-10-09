@@ -1,0 +1,14 @@
+C:\Users\sa\Desktop\TalesLand_Server\RelayServer\obj\Release\RelayServer.csproj.AssemblyReference.cache
+C:\Users\sa\Desktop\TalesLand_Server\RelayServer\obj\Release\RelayServer.csproj.CoreCompileInputs.cache
+C:\Users\sa\Desktop\TalesLand_Server\bin\RelayServer.exe.config
+C:\Users\sa\Desktop\TalesLand_Server\bin\RelayServer.exe
+C:\Users\sa\Desktop\TalesLand_Server\bin\RelayServer.pdb
+C:\Users\sa\Desktop\TalesLand_Server\RelayServer\obj\Release\RelayServer.exe
+C:\Users\sa\Desktop\TalesLand_Server\RelayServer\obj\Release\RelayServer.pdb
+D:\TalesLand_Server\bin\RelayServer.exe.config
+D:\TalesLand_Server\bin\RelayServer.exe
+D:\TalesLand_Server\bin\RelayServer.pdb
+D:\TalesLand_Server\RelayServer\obj\Release\RelayServer.csproj.AssemblyReference.cache
+D:\TalesLand_Server\RelayServer\obj\Release\RelayServer.csproj.CoreCompileInputs.cache
+D:\TalesLand_Server\RelayServer\obj\Release\RelayServer.exe
+D:\TalesLand_Server\RelayServer\obj\Release\RelayServer.pdb
